@@ -236,12 +236,12 @@ I'm a Computer Science & IT major working as an Angular & NestJs developer
 
 </p>
 
-## <img height="40" src="https://github.com/bonface221/bonface221/blob/master/kyubey.gif"/>Links
+## <img height="40" src="https://github.com/architect254/architect254/blob/master/kyubey.gif"/>Links
 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/jaredbada)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/architect254)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/jaredbada)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mainaboniface221@gmail.com)](mailto:official.jared.bada@gmail.com)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/jared-bada)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/jared_bada)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/jared-bada)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:official.jared.bada@gmail.com)](mailto:official.jared.bada@gmail.com)
 
 **Skills:**   
 Fullstack Web App Development with Angular &, NestJs | Database Management & Design | User Interface Design | Developer Operations & Continuous Integration
