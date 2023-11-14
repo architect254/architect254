@@ -8,21 +8,17 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I'm a software development student who is very passionate about solving complicated problems and creating software solutions :web:. I :heart: Open Source and therefore take great pleasure out of working on interesting opensource projects.
+I'm a Computer Science & IT major working as an Angular & NestJs developer
 
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architect254&margin-w=15&margin-h=15" alt="architect254" /></a> </p>
 
-- 🎥 I’m currently building: **Fullstack web apps**
+- 🎥 I’m currently building: **Fullstack Progressive Web Apps with Angular & NestJs**
 
-- 🌱 I’m currently learning: **Azure AI Services, AWS Amplify, Python**
+- 🤝 I’m contributing to the Open Source Angular Framework on Github
 
-- 🎥 I’m building next and react applications.
-
-- 🤝 I’m looking for open source projects to work on
-
-- 💬 Ask me about **Git, React, Next, AI tools, Getting the Software Engineering Job**
+- 💬 Ask me about **Git, Angular, Nest, AI tools, landing Tech jobs**
 
 <h3 align="left">My Github Stats:</h3>
 
@@ -36,7 +32,7 @@ I'm a software development student who is very passionate about solving complica
     </td>
     </td>
     <td>
-      <a align="center" href="https://github.com/architect254"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architect254&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+      <a align="center" href="https://github.com/architect254"><img alt="Architect254's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architect254&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
 
@@ -205,14 +201,6 @@ I'm a software development student who is very passionate about solving complica
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
@@ -250,10 +238,10 @@ I'm a software development student who is very passionate about solving complica
 
 ## <img height="40" src="https://github.com/bonface221/bonface221/blob/master/kyubey.gif"/>Links
 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/bonface-maina-a7b834235)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/twinbro10)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/bonface.maina.186)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mainaboniface221@gmail.com)](mailto:mainaboniface221@gmail.com)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/jaredbada)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/architect254)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://www.facebook.com/jaredbada)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mainaboniface221@gmail.com)](mailto:official.jared.bada@gmail.com)
 
 **Skills:**   
 Fullstack Web App Development with Angular &, NestJs | Database Management & Design | User Interface Design | Developer Operations & Continuous Integration
